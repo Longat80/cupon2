@@ -1,0 +1,39 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Navegacion */
+
+.logo01 {
+    width: 86px;
+}
+
+.fondo-nav {
+    background: #28A745 !important;
+}
+
+/* Seccion Principal */
+
+.color-precio1 {
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 300;
+    color: #707070;
+}
+
+.color-precio2 {
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 500;
+    color: #28A745;
+}
+
+.card-imagenes {
+    width: 18rem;
+}
+
+/* pie de pagina */
+
+.img-footer {
+    width: 82px;
+}
